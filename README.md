@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthMcFly
-- 👀 I’m interested in Node.js and Python
+- 👀 I’m interested in C and C++
 - 🌱 I’m currently learning Node.js and C
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me arthurgomesferreira.agf@gmail.com
